@@ -1,6 +1,9 @@
-# ¡Hola! Soy Rebeca Rodríguez 👋 
+<p align="center">
+  <img src="https://github.com/RebecaRG/RebecaRG/blob/main/banner2.png" width=”200" heigth=”200">
+</p>
 
-Soy una desarrolladora frontend, especializada en [Angular](https://angular.dev/).  Me dedico a crear aplicaciones web dinámicas e interactivas, teniendo en cuenta una buena experiencia del usuario/a. Mi compromiso es ofrecer soluciones que no solo sean atractivas visualmente, sino también completamente adaptativas (responsive). Entre mis mayores cualidades destaca la creatividad y la capacidad para afrontar nuevos retos.
+
+Soy desarrolladora frontend, especializada en Angular y con conocimientos de backend. Me dedico a crear aplicaciones web dinámicas e interactivas, siempre con el objetivo de garantizar una excelente experiencia para el usuario/a. Mi compromiso es ofrecer soluciones que no solo sean atractivas visualmente, sino también completamente adaptativas (responsive). Entre mis mayores cualidades destacan la creatividad y la capacidad para afrontar nuevos retos.
 
 
 # 👩‍💻 Sobre mi
