@@ -7,7 +7,7 @@ Soy desarrolladora frontend, especializada en Angular y con conocimientos de bac
 
 
 # 👩‍💻 Sobre mi
-📫 **Correo electrónico de contacto:** rebeca.rodriguez.82@gmail.com<br><br>
+📫 **Correo electrónico de contacto:** rebeca.rodriguez.guirao@gmail.com<br><br>
 🌱 Estoy aprendiendo Pyhton, Flask y Microsoft Authentication Library (MSAL).<br><br>
 💬 Pregúntame sobre Angular, TS y JS.<br><br>
 📄 Para saber más acerca de mi visita mi [portafolio online](https://cvrebecarodriguez.netlify.app/).<br><br>
