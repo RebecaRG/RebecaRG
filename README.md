@@ -7,10 +7,10 @@ Soy desarrolladora frontend, especializada en Angular y con conocimientos de bac
 
 
 # 👩‍💻 Sobre mi
+📄 Para saber más acerca de mi visita mi [Linkedin](https://www.linkedin.com/in/rebeca-r-g/).<br><br>
 📫 **Correo electrónico de contacto:** rebeca.rodriguez.guirao@gmail.com<br><br>
+💬 Pregúntame sobre Angular, TS, JS, Express y Sequelize.<br><br>
 🌱 Estoy aprendiendo Pyhton, Flask y Microsoft Authentication Library (MSAL).<br><br>
-💬 Pregúntame sobre Angular, TS y JS.<br><br>
-📄 Para saber más acerca de mi visita mi [portafolio online](https://cvrebecarodriguez.netlify.app/).<br><br>
 ⚡ Cuando no programo, me gusta pasar el tiempo viajando con mi caravana, jugando a juegos de mesa o practicando voleibol en la playa.
 
 # 💻 Tech skills
